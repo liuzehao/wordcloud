@@ -1,6 +1,6 @@
 # wordcloud
-python:从excel中提取高频词生成词云
-@[toc]
+作用是统计excel中出现频率较高的词汇，形成词云，结果如下：
+![https://github.com/liuzehao/wordcloud/blob/master/Wordcloud.png]
 ## 1.需要的库
 
 ```
