@@ -1,6 +1,11 @@
 # wordcloud
 作用是统计excel中出现频率较高的词汇，形成词云，结果如下：
 ![https://github.com/liuzehao/wordcloud/blob/master/Wordcloud.png](https://github.com/liuzehao/wordcloud/blob/master/Wordcloud.png)
+## 0.快速修改使用
+```
+0.1 修改对应的excel文件和其对应的列：59行修改excel文件名60行修改对应的列名
+0.2 77行 500 的意思是取出出现频率前500的词汇，这个可以修改，比如100就把500改成100
+```
 ## 1.需要的库
 
 ```
